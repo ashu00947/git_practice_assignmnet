@@ -1,7 +1,7 @@
-let n=13;
 
 function prime(){
- flag = true;
+ let n=13;
+ let flag = true;
  if(n<=1){
  flag = false;
  }
