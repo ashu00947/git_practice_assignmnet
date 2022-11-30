@@ -1,0 +1,7 @@
+let n=17
+
+if(n%1==17&&n%17==1){
+ 
+console.log("yes");
+
+}
